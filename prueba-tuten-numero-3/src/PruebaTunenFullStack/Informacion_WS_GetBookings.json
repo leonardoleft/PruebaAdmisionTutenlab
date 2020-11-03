@@ -1,0 +1,13 @@
+{
+    "URL" : "https://dev.tuten.cl:443/TutenREST/rest/user/contacto%40tuten.cl/bookings?current=true&adminemail=testapis@tuten.cl&email=contacto@tuten.cl&app=APP_BCK&token=testapis@tuten.clqbfdobdbhfv9ubhbbbos5fieoq",
+    "Method" : "GET",
+    "Body" : {},
+    "Headers" : 
+       { 
+        "Content-Type": "application/json",
+        "Accept":"application/json",
+        "App" : "APP_BCK",
+        "Adminemail": "testapis@tuten.cl",
+        "Token" : "" 
+       }
+}

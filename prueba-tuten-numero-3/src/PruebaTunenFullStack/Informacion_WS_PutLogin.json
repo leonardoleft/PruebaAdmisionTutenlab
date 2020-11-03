@@ -1,0 +1,13 @@
+{
+    "URL" : "https://dev.tuten.cl:443/TutenREST/rest/user/testapis%40tuten.cl",
+    "Method" : "PUT",
+    "Body" : {},
+    "Headers" : 
+       {
+        "Content-Type": "application/json",
+        "Accept":"application/json",
+        "App" : "APP_BCK",
+        "Password" : "1234"
+       },
+     "TokenName" : "sessionTokenBck"  
+}
